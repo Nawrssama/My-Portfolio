@@ -25,10 +25,19 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import python from "./company/python.png";
+import react from "./company/react.png";
+import webd from "./company/webd.png";
+import fullstack from "./company/fullstack.png";
+import django from "./company/django.png";
+import nextjs from "./company/nextjs.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import screen3 from "./company/screen3.png";
+import screen2 from "./company/screen2.png";
+import screen1 from "./company/screen1.png";
 
 export {
   logo,
@@ -56,7 +65,16 @@ export {
   shopify,
   starbucks,
   tesla,
+  python,
+  react,
+  webd,
+  fullstack,
+  django,
+  nextjs,
   carrent,
   jobit,
   tripguide,
+  screen3,
+  screen2,
+  screen1,
 };
